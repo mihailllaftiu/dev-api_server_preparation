@@ -1,7 +1,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Requirements](#requirements)
-3. [Suggestions Installation](#suggestions-installation-)
+3. [Suggestions Installation](#suggestions-installation-%EF%B8%8F)
 4. [LAMP Installation](#lamp-installation-)
 5. [Security Installation](#security-installation-)
 6. [Conclusion](#conclusion)
