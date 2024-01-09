@@ -6,7 +6,7 @@
 5. [Security Installation](#security-installation-)
 6. [Installation Run](#installation-run)
 7. [Conclusion](#conclusion)
-
+<br><br><br>
 ---
 
 ## Introduction
@@ -76,6 +76,7 @@ These measures collectively fortify the server against potential security threat
 - DoS/DDoS Protection: Enables UFW rate limiting to mitigate potential Denial of Service (DoS) or Distributed Denial of Service (DDoS) attacks, particularly for SSH connections.
 - Antivirus Setup: Installs and sets up ClamAV antivirus for malware detection, including regular updates for virus definitions.
 ```
+<br><br>
 
 ---
 
@@ -104,5 +105,3 @@ To set up the environment for installation:
 
 ## Conclusion
 Upon execution, these scripts collectively automate the setup process for the server, covering suggestions for optimizations, LAMP stack installation, and security configurations, ensuring a **well-optimized** and **secure** environment for hosting applications.
-
----
