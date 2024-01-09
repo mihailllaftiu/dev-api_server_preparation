@@ -96,7 +96,7 @@ To set up the environment for installation:
 
 **Get the Repository:** Download the repository into the 'tools' directory.
 ```bash
-- wget https://github.com/mihailllaftiu/fresh_server_preparation.git
+- wget https://github.com/mihailllaftiu/dev-api_server_preparation.git
 ```
 
 **Execute the Installation Script:** Run the installation script to start the automated setup.
