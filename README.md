@@ -1,5 +1,5 @@
 ---
-## Table of Contents
+## Table of Contents 📌
 1. [Introduction](#introduction)
 2. [Requirements](#requirements)
 3. [Suggestions Installation](#suggestions-installation-%EF%B8%8F)
@@ -10,10 +10,10 @@
 <br><br><br>
 ---
 
-## Introduction
+## Introduction 📋
 This script automates the <ins>setup process for a DEV / API server</ins>, covering suggestions for **optimizations**, **LAMP stack** installation, and **security configurations**.
 
-## Requirements
+## Requirements 📝
 
 | **What it Requires (At least)** | **What it Offers (Ready to Play)** |
 |--------------------------------|-----------------------------|
@@ -40,7 +40,7 @@ This section focuses on fine-tuning system settings, optimizing service configur
 ```
 
 
-## LAMP Installation 💡
+## LAMP Installation 🖥️
 
 The 'LAMP Installation' section is responsible for setting up the foundational components necessary for hosting web applications, such as Linux, Apache, MySQL, and PHP. This process includes the following steps:
 
@@ -61,7 +61,7 @@ This comprehensive setup ensures the compatibility and seamless operation of ess
 
 
 
-## Security Installation 🔒
+## Security Installation 🛡️
 
 The 'Security Installation' section focuses on enhancing server security measures and configurations. This process encompasses several steps:
 
@@ -104,5 +104,5 @@ To set up the environment for installation:
 - sh prepare_installation.sh
 ```
 
-## Conclusion
+## Conclusion 💡
 Upon execution, these scripts collectively automate the setup process for the server, covering suggestions for optimizations, LAMP stack installation, and security configurations, ensuring a **well-optimized** and **secure** environment for hosting applications.
