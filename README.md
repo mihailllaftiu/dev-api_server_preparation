@@ -4,7 +4,8 @@
 3. [Suggestions Installation](#suggestions-installation-%EF%B8%8F)
 4. [LAMP Installation](#lamp-installation-)
 5. [Security Installation](#security-installation-)
-6. [Conclusion](#conclusion)
+6. [Installation Run](#installation-run)
+7. [Conclusion](#conclusion)
 
 ---
 
@@ -20,7 +21,7 @@ This script automates the <ins>setup process for a DEV / API server</ins>, cover
 | **CPU:** 4+ (recommended)          | **Web Server:**    Apache 2.4   |
 
 
-## Suggestions Installation 🛠️
+## Suggestions Installation 🧰
 
 The 'Suggestions Installation' section enhances server performance and reliability through the following steps:
 
@@ -77,6 +78,29 @@ These measures collectively fortify the server against potential security threat
 ```
 
 ---
+
+## Installation Run 🛠️
+To set up the environment for installation:
+
+**Create a Directory:** Run the following command to create a directory named 'tools'.
+```bash
+- mkdir /tools
+```
+
+**Navigate to the Directory:** Move into the newly created 'tools' directory.
+```bash
+- cd /tools
+```
+
+**Get the Repository:** Download the repository into the 'tools' directory.
+```bash
+- wget https://github.com/mihailllaftiu/fresh_server_preparation.git
+```
+
+**Execute the Installation Script:** Run the installation script to start the automated setup.
+```bash
+- sh prepare_installation.sh
+```
 
 ## Conclusion
 Upon execution, these scripts collectively automate the setup process for the server, covering suggestions for optimizations, LAMP stack installation, and security configurations, ensuring a **well-optimized** and **secure** environment for hosting applications.
