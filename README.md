@@ -84,24 +84,19 @@ These measures collectively fortify the server against potential security threat
 ## Running Process 🛠️
 To set up the environment for installation:
 
-**Create a Directory:** Run the following command to create a directory named 'tools'.
+**Clone Repo:** Run the following command to create a directory and clone the repository.
 ```bash
- mkdir /tools
+sudo git clone https://github.com/mihailllaftiu/dev-api_server_preparation.git /dev-api_server_preparation
 ```
 
 **Navigate to the Directory:** Move into the newly created 'tools' directory.
 ```bash
- cd /tools
+ cd /dev-api_server_preparation
 ```
 
-**Get the Repository:** Download the repository into the 'tools' directory.
+**Git Installation:** In case the OS of your server won't have pre-installed the 'git'.
 ```bash
- wget https://github.com/mihailllaftiu/dev-api_server_preparation.git
-```
-
-**Execute the Installation Script:** Run the installation script to start the automated setup.
-```bash
- sh prepare_installation.sh
+sudo apt-get install git -y
 ```
 
 ## Conclusion 💡
