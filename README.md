@@ -1,12 +1,12 @@
 ---
 ## Table of Contents 📌
-1. [Introduction](#introduction)
-2. [Requirements](#requirements)
+1. [Introduction](#introduction-)
+2. [Requirements](#requirements-)
 3. [Suggestions Installation](#suggestions-installation-%EF%B8%8F)
-4. [LAMP Installation](#lamp-installation-)
-5. [Security Installation](#security-installation-)
-6. [Installation Run](#installation-run)
-7. [Conclusion](#conclusion)
+4. [LAMP Installation](#lamp-installation-%EF%B8%8F)
+5. [Security Installation](#security-installation-%EF%B8%8F)
+6. [Running Proccess](#running-proccess-%EF%B8%8F)
+7. [Conclusion](#conclusion-)
 <br><br><br>
 ---
 
