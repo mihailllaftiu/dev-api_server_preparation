@@ -96,7 +96,7 @@ sudo git clone https://github.com/mihailllaftiu/dev-api_server_preparation.git /
 
 **Navigate to the Directory:** Move into the newly created 'tools' directory.
 ```bash
-cd /dev-api_server_preparation
+cd /dev-api_server_preparation/apache
 ```
 
 **Run Installation:** Run the installation 'sh' file and begin the process.
