@@ -81,7 +81,7 @@ These measures collectively fortify the server against potential security threat
 
 ---
 
-## Installation Run 🛠️
+## Running Proccess 🛠️
 To set up the environment for installation:
 
 **Create a Directory:** Run the following command to create a directory named 'tools'.
