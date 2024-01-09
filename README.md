@@ -84,6 +84,11 @@ These measures collectively fortify the server against potential security threat
 ## Running Process 🛠️
 To set up the environment for installation:
 
+**Git Installation:** In case the OS of your server won't have pre-installed the 'git'.
+```bash
+sudo apt-get install git -y
+```
+
 **Clone Repo:** Run the following command to create a directory and clone the repository.
 ```bash
 sudo git clone https://github.com/mihailllaftiu/dev-api_server_preparation.git /dev-api_server_preparation
@@ -94,9 +99,9 @@ sudo git clone https://github.com/mihailllaftiu/dev-api_server_preparation.git /
  cd /dev-api_server_preparation
 ```
 
-**Git Installation:** In case the OS of your server won't have pre-installed the 'git'.
+**Run Installation:** Run the installation 'sh' file and begin the process.
 ```bash
-sudo apt-get install git -y
+sh prepare_installation.sh
 ```
 
 ## Conclusion 💡
