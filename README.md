@@ -12,7 +12,8 @@
 
 ## Introduction 📋
 This script automates the ```setup process for a DEV / API server```, covering suggestions for **optimizations**, **LAMP stack** installation, and **security configurations**. 
-<br><br><ins>*There will be **LEMP Stack** installation soon..*</ins>
+<br>
+> There will be **LEMP Stack** installation included soon..
 
 ## Requirements 📝
 
