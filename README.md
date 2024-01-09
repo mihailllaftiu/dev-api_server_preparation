@@ -21,7 +21,7 @@ This script automates the ```setup process for a DEV / API server```, covering s
 |--------------------------------|-----------------------------|
 | **OS:**  Ubuntu 22.04 (Required)   | **PHP:**           8.1          |
 | **RAM:** 8GB + (recommended)       | **Database (DB):** MariaDB 10.6 |
-| **CPU:** 4+ (recommended)          | **Web Server:**    Apache 2.4   |
+| **CPU:** 4+ (recommended)          | **Web Server:**    Apache 2.4 (for now)  |
 
 
 ## Suggestions Installation 🧰
