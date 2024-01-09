@@ -86,22 +86,22 @@ To set up the environment for installation:
 
 **Create a Directory:** Run the following command to create a directory named 'tools'.
 ```bash
-- mkdir /tools
+ mkdir /tools
 ```
 
 **Navigate to the Directory:** Move into the newly created 'tools' directory.
 ```bash
-- cd /tools
+ cd /tools
 ```
 
 **Get the Repository:** Download the repository into the 'tools' directory.
 ```bash
-- wget https://github.com/mihailllaftiu/dev-api_server_preparation.git
+ wget https://github.com/mihailllaftiu/dev-api_server_preparation.git
 ```
 
 **Execute the Installation Script:** Run the installation script to start the automated setup.
 ```bash
-- sh prepare_installation.sh
+ sh prepare_installation.sh
 ```
 
 ## Conclusion 💡
