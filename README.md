@@ -5,7 +5,7 @@
 3. [Suggestions Installation](#suggestions-installation-%EF%B8%8F)
 4. [LAMP Installation](#lamp-installation-%EF%B8%8F)
 5. [Security Installation](#security-installation-%EF%B8%8F)
-6. [Running Proccess](#running-proccess-%EF%B8%8F)
+6. [Running Process](#running-process-%EF%B8%8F)
 7. [Conclusion](#conclusion-)
 <br><br><br>
 ---
@@ -81,7 +81,7 @@ These measures collectively fortify the server against potential security threat
 
 ---
 
-## Running Proccess 🛠️
+## Running Process 🛠️
 To set up the environment for installation:
 
 **Create a Directory:** Run the following command to create a directory named 'tools'.
